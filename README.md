@@ -35,6 +35,14 @@ jupyter notebook "Impact of Food on the Environment.ipynb"
 
 ## Project Structure
 - Impact of Food on the Environment.ipynb: Main Jupyter Notebook containing the analysis and visualizations.
+- Food_Production.csv: CSV file containing project data
 
 ## Dataset
-The dataset used in this project is sourced from [source name] and includes information on various food items and their environmental impact metrics.
+The dataset used in this project is sourced from Kaggle and includes information on various food items and their environmental impact metrics.
+
+## Results
+The analysis includes visualizations and insights on:
+
+- Greenhouse gas emissions of different foods.
+- Water usage of various food items.
+- Land usage required for producing different foods.
